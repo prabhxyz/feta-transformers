@@ -96,7 +96,7 @@ This will train prefix and LoRA models, compile the prefix to LoRA, and produce 
 (Optional) Generate plots using:
 
 ```bash
-python visualize_feta_results.py
+python visualize.py
 ```
 
 ---
